@@ -1,0 +1,10 @@
+[project]
+name = "agentic-ai"
+version = "0.1.0"
+description = "Tools & projects for Agentic AI"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-core>=1.6.6",
+    "langchain-google-genai>=4.4.0",
+    "python-dotenv>=1.2.4",
+]
